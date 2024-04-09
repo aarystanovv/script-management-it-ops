@@ -38,3 +38,10 @@ cd your-repository
 
 3. Run the desired script using Python:
 python script_name.py
+
+![Example Image1](images/img1.png "Script1")
+![Example Image2](images/img2.png "Script2")
+![Example Image3](images/img3.png "Script2")
+![Example Image4](images/img4.png "Script3")
+![Example Image5](images/img5.png "Script3")
+
